@@ -59,7 +59,6 @@
 /* НАВИГАЦИЯ */
 .nav-list {
     flex-grow: 1; 
-    overflow-y: auto; 
 }
 
 .nav-list__item {
